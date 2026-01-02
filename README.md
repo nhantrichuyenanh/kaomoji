@@ -22,4 +22,4 @@ Because of this fact, I've been wanting to create a kaomoji app.
 | :---: | :---: |
 | ![Demo 1](demo/demo1.jpg) | ![Demo 2](demo/demo2.jpg) |
 
-(sorry for the terrible demo `（＞人＜；）` hopefully I get across my idea)
+(sorry for the terrible demo `（＞人＜；）` hopefully I get my idea across)
