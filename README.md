@@ -9,7 +9,7 @@ So much for a paralanguage. Despite it being used by billions of people and LLMs
 
 Emoticons and some basic kaomojis can easily be typed via your keyboard, but most kaomojis, especially complex ones, can't or is awkward to do so. You would have to either copy-paste somewhere on the internet, save them as text shortcuts, or use your OS features/app/keyboard like Windows Clipboard Manager, [Raycast](https://www.raycast.com/yalishanda/kaomoji-search), or using Japanese keyboard.
 
-On mobile, there isn't a perfect kaomoji keyboard app, as far as I'm aware. Gboard, for what it's worth, is a product of Google, which is bound to collect your data. Other "kawaii cute" (tautology lol) kaomoji apps offer unnecessary features like fonts and custom symbol. Of course, there are also paid or freemium ones lock a lot of kaomojis behind a paywall. Throughout my research and testing, I've noticed all of them:
+On mobile, there isn't a perfect kaomoji keyboard app, as far as I'm aware. Gboard, for what it's worth, is a product of Google, which is bound to collect your data. Other "kawaii cute" (tautology lol) kaomoji apps offer unnecessary features like fonts and custom symbol. Of course, there are also paid or freemium ones locking a lot of kaomojis behind a paywall. Throughout my research and testing, I've noticed all of them:
 - don't have a feature to long press to choose variants
 - don't have a button to change all eyes from x to y or remove parentheses
 - don't have a feature add/remove/edit default and user-created kaomojis
