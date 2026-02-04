@@ -24,11 +24,19 @@ Because of this fact, I've been wanting to create a kaomoji app.
 
 (sorry for the terrible demo `（＞人＜；）` hopefully I get my idea across)
 
-Regarding kaomoji websites, I've compiled 14 websites. (this part is WIP, will write more)
+| [![](websitepreview/AngelEmojiMaker.png)](https://emoji-maker.com/kaomoji_copy) | [![](websitepreview/Cuteinternet.png)](https://cuteinternet.com/kaomoji) |
+| --- | --- |
+| Row 1 | Row 1 |
+| Row 2 | Row 2 |
+| Row 3 | Row 3 |
+| Row 4 | Row 4 |
+| Row 5 | Row 5 |
+| Row 6 | Row 6 |
+
 | No. | Website (click to be redirected) |
 | :--- | :--- |
-| 1 | [![](websitepreview/AngelEmojiMaker.png)](https://emoji-maker.com/kaomoji_copy)|
-| 2 | [![](websitepreview/Cuteinternet.png)](https://cuteinternet.com/kaomoji) |
+| 1 | |
+| 2 |  |
 | 3 | [![](websitepreview/JapaneseEmoticons.me.png)](https://japaneseemoticons.me/all-japanese-emoticons/) |
 | 4 | [![](websitepreview/KaomojiKuma.png)](https://kaomojikuma.com/) |
 | 5 | [![](websitepreview/kaomoji.life.png)](https://kaomoji.life/categories) |
