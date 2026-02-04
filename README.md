@@ -35,7 +35,7 @@ Because of this fact, I've been wanting to create a kaomoji app, or at the very 
 | `_へ__(‾◡◝ )>` | `.·´¯`(>▂<)´¯`·.` | `(╯°□°)╯︵ ʞooqǝɔɐℲ` | `(㇏(•̀ᵥᵥ•́)ノ)` | `(꒪ཀ꒪)` | `✴==≡눈` |
 | `(⊙.☉)7` | `(っ˘ڡ˘ς)` | `Ю　○三　＼(￣^￣＼)` | `¯\(°_o)/¯` | `(*・_・)ノ⌒*`  | `(　´_ゝ｀)` |
 
-    - Sources:
+Sources:
 
 | [![](websitepreview/AngelEmojiMaker.png)](https://emoji-maker.com/kaomoji_copy) | [![](websitepreview/Cuteinternet.png)](https://cuteinternet.com/kaomoji) |
 | --- | --- |
