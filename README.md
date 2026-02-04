@@ -27,6 +27,7 @@ Because of this fact, I've been wanting to create a kaomoji app, or at the very 
 (sorry for the terrible demo `（＞人＜；）` hopefully I get my idea across)
 
 - List of cool kaomojis:
+
 | ―⊂ZZZ⊃ | \̅_̅/̷̚ʾ | [̲̅$̲̅(̲̅ ͡° ͜ʖ ͡°̲̅)̲̅$̲̅] | ((d[-_-]b)) | (´ᵔ⤙ᵔ`) | (＿ ＿*) Z z z |
 |----|----|----|----|----|----|
 | `(　・ω・)⊃-[二二]` | `-●●●-ｃ(ω｀ｃ )  ( ・・)つ-●●●` | `♪o<( ´∀｀)っ┌iii┐` | `( ・・)つ―{}@{}@{}-` | `(۶ૈ ᵒ̌ Дᵒ̌)۶ૈ=͟͟͞͞ ⌨` | `ꍞ(¦ 3[▓▓]` |
