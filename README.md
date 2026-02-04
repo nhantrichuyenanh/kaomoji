@@ -16,36 +16,20 @@ On mobile, there isn't a perfect kaomoji keyboard app, as far as I'm aware. Gboa
 - don't have search feature
 - have a limited amount of kaomojis, most of which are kinda basic
 
-Because of this fact, I've been wanting to create a kaomoji app.
+Because of this fact, I've been wanting to create a kaomoji app, or at the very least create a list of cool kaomojis.
 
+- What would a kaomoji app would look like:
 | Demo 1 | Demo 2 |
 | :---: | :---: |
 | ![Demo 1](demo/demo1.jpg) | ![Demo 2](demo/demo2.jpg) |
-
 (sorry for the terrible demo `（＞人＜；）` hopefully I get my idea across)
 
+- List of cool kaomojis:
 | [![](websitepreview/AngelEmojiMaker.png)](https://emoji-maker.com/kaomoji_copy) | [![](websitepreview/Cuteinternet.png)](https://cuteinternet.com/kaomoji) |
 | --- | --- |
-| Row 1 | Row 1 |
-| Row 2 | Row 2 |
-| Row 3 | Row 3 |
-| Row 4 | Row 4 |
-| Row 5 | Row 5 |
-| Row 6 | Row 6 |
-
-| No. | Website (click to be redirected) |
-| :--- | :--- |
-| 1 | |
-| 2 |  |
-| 3 | [![](websitepreview/JapaneseEmoticons.me.png)](https://japaneseemoticons.me/all-japanese-emoticons/) |
-| 4 | [![](websitepreview/KaomojiKuma.png)](https://kaomojikuma.com/) |
-| 5 | [![](websitepreview/kaomoji.life.png)](https://kaomoji.life/categories) |
-| 6 | [![](websitepreview/kaomoji.ru.png)](https://kaomoji.ru/en/#contents) |
-| 7 | [![](websitepreview/KawaiiFace.png)](https://kawaiiface.net/happy-faces) |
-| 8 | [![](websitepreview/lennyfac.es.png)](https://www.lennyfac.es/) |
-| 9 | [![](websitepreview/looks.wtf.png)](https://looks.wtf/) |
-| 10 | [![](websitepreview/PSDDude.png)](https://www.psd-dude.com/kaomojis/) |
-| 11 | [![](websitepreview/Simeji.png)](https://simeji.me/kaomoji) |
-| 12 | [![](websitepreview/SNSKeyboard.png)](https://snskeyboard.com/emoticon/) |
-| 13 | [![](websitepreview/Wikipedia.png)](https://wikipedia.org/wiki/List_of_emoticons#Eastern) |
-| 14 | [![](websitepreview/顔文字屋さん.png)](https://kaomojiya.com/) |
+| [![](websitepreview/JapaneseEmoticons.me.png)](https://japaneseemoticons.me/all-japanese-emoticons/) | [![](websitepreview/KaomojiKuma.png)](https://kaomojikuma.com/) |
+| [![](websitepreview/kaomoji.life.png)](https://kaomoji.life/categories) | [![](websitepreview/kaomoji.ru.png)](https://kaomoji.ru/en/#contents) |
+| [![](websitepreview/KawaiiFace.png)](https://kawaiiface.net/happy-faces) | [![](websitepreview/lennyfac.es.png)](https://www.lennyfac.es/) |
+| [![](websitepreview/looks.wtf.png)](https://looks.wtf/) | [![](websitepreview/PSDDude.png)](https://www.psd-dude.com/kaomojis/) |
+| [![](websitepreview/Simeji.png)](https://simeji.me/kaomoji) | [![](websitepreview/SNSKeyboard.png)](https://snskeyboard.com/emoticon/) |
+| [![](websitepreview/Wikipedia.png)](https://wikipedia.org/wiki/List_of_emoticons#Eastern) | [![](websitepreview/顔文字屋さん.png)](https://kaomojiya.com/) |
