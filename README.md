@@ -19,7 +19,6 @@ On mobile, there isn't a perfect kaomoji keyboard app, as far as I'm aware. Gboa
 Because of this fact, I've been wanting to create a kaomoji app, or at the very least create a list of cool kaomojis.
 
 - What would a kaomoji app would look like:
-- 
 | Demo 1 | Demo 2 |
 | :---: | :---: |
 | ![Demo 1](demo/demo1.jpg) | ![Demo 2](demo/demo2.jpg) |
