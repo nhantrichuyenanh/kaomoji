@@ -23,6 +23,7 @@ Because of this fact, I've been wanting to create a kaomoji app, or at the very 
 | Demo 1 | Demo 2 |
 | :---: | :---: |
 | ![Demo 1](demo/demo1.jpg) | ![Demo 2](demo/demo2.jpg) |
+
 (sorry for the terrible demo `（＞人＜；）` hopefully I get my idea across)
 
 - List of cool kaomojis:
