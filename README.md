@@ -27,7 +27,14 @@ Because of this fact, I've been wanting to create a kaomoji app, or at the very 
 (sorry for the terrible demo `（＞人＜；）` hopefully I get my idea across)
 
 - List of cool kaomojis:
+| ―⊂ZZZ⊃ | \̅_̅/̷̚ʾ | [̲̅$̲̅(̲̅ ͡° ͜ʖ ͡°̲̅)̲̅$̲̅] | ((d[-_-]b)) | (´ᵔ⤙ᵔ`) | (＿ ＿*) Z z z |
+| --- | --- | --- | --- | --- | --- |
+| (　・ω・)⊃-[二二] | -●●●-ｃ(ω｀ｃ )  ( ・・)つ-●●● | ♪o<( ´∀｀)っ┌iii┐ | ( ・・)つ―{}@{}@{}- 	 | (۶ૈ ᵒ̌ Дᵒ̌)۶ૈ=͟͟͞͞ ⌨ | ꍞ(¦ 3[▓▓] |
+| ヽ(^o^)ρ┳┻┳°σ(^o^)ノ | ヽ(；^ ^)ノﾞ ．．．...___〇 |  	ε=ε=┌( >_<)┘ | (°)#))<< | ( ^^)p_____|_o____q(^^ ) | ( °̥̥̥̥̥̥̥̥◡͐°̥̥̥̥̥̥̥̥) |
+| _へ__(‾◡◝ )> | .·´¯`(>▂<)´¯`·. | (╯°□°)╯︵ ʞooqǝɔɐℲ | (㇏(•̀ᵥᵥ•́)ノ) | (꒪ཀ꒪) | ✴==≡눈 |
+| ―⊂|=0 | (っ˘ڡ˘ς) | Ю　○三　＼(￣^￣＼) | ¯\(°_o)/¯ | (*・_・)ノ⌒*  | (　´_ゝ｀) |
 
+Sources:
 | [![](websitepreview/AngelEmojiMaker.png)](https://emoji-maker.com/kaomoji_copy) | [![](websitepreview/Cuteinternet.png)](https://cuteinternet.com/kaomoji) |
 | --- | --- |
 | [![](websitepreview/JapaneseEmoticons.me.png)](https://japaneseemoticons.me/all-japanese-emoticons/) | [![](websitepreview/KaomojiKuma.png)](https://kaomojikuma.com/) |
