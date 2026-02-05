@@ -26,16 +26,14 @@ Because of this fact, I've been wanting to create a kaomoji app, or at the very 
 
 (sorry for the terrible demo `（＞人＜；）` hopefully I get my idea across)
 
-- List of cool kaomojis:
+- List of cool kaomojis: (sources below as images, click on them to be redirected)
 
 | ―⊂ZZZ⊃ | \̅_̅/̷̚ʾ | [̲̅$̲̅(̲̅ ͡° ͜ʖ ͡°̲̅)̲̅$̲̅] | ((d[-_-]b)) | (´ᵔ⤙ᵔ`) |
 |----|----|----|----|----|
 | `(　・ω・)⊃-[二二]` | `-●●●-ｃ(ω｀ｃ )` | `♪o<( ´∀｀)っ┌iii┐` | `( °̥̥̥̥̥̥̥̥◡͐°̥̥̥̥̥̥̥̥)` | `(۶ૈ ᵒ̌ Дᵒ̌)۶ૈ=͟͟͞͞ ⌨` | 
-| `ヽ(^o^)ρ┳┻┳°σ(^o^)ノ` | `ヽ(；^ ^)ノﾞ ．．．...___〇` | ` 	ε=ε=┌( >_<)┘` | `(＿ ＿*) Z z z` |  |
+| `ヽ(^o^)ρ┳┻┳°σ(^o^)ノ` | `ヽ(；^ ^)ノﾞ ．．．...___〇` | ` 	ε=ε=┌( >_<)┘` | `(＿ ＿*) Z z z` | `ᯓ✦` |
 | `_へ__(‾◡◝ )>` | `✴==≡눈` | `(╯°□°)╯︵ ʞooqǝɔɐℲ` | `ꍞ(¦ 3[▓▓]` | `(＾＾)ｂ` |
-| `(　´_ゝ｀)` | `(っ˘ڡ˘ς)` | `Ю　○三　＼(￣^￣＼)` | `¯\(°_o)/¯` |  |
-
-Sources:
+| `(　´_ゝ｀)` | `(っ˘ڡ˘ς)` | `Ю　○三　＼(￣^￣＼)` | `¯\(°_o)/¯` | `[̲̅$̲̅(̲̅5̲̅)̲̅$̲̅]` |
 
 | [![](websitepreview/AngelEmojiMaker.png)](https://emoji-maker.com/kaomoji_copy) | [![](websitepreview/Cuteinternet.png)](https://cuteinternet.com/kaomoji) |
 | --- | --- |
