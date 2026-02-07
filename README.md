@@ -2,7 +2,7 @@ Emojis are deeply flawed. They:
 - lack a lot of emotional cues ("Ok 🙂" Are you being sarcastic? Passive-aggressive? Annoyed?),
 - change meanings depending on who you're texting to (Gen Z uses 😭 for everything)
 - look different on each platform,
-- are Japanese-American centric (💹 why only Yen? most mailboxes around the world don't look like 📫) and lack representation for other countries' cultural symbols and references (where are the emojis for Vietnamese _bánh mì_, Indian _sari_, or Mayan _Chichén Itzá_?),
+- are Japanese-American centric (🚅 why are there so many train emojis? most mailboxes around the world don't look like 📫) and lack representation for other countries' cultural symbols and references (where are the emojis for Vietnamese _bánh mì_, Indian _sari_, or Mayan _Chichén Itzá_?),
 - are a product of Silicon Valley (American tech companies corporatize emojis by making them have big eyes, big mouth, and yellow skin).
 
 So much for a paralanguage. Despite it being used by billions of people and LLMs like ChatGPT, it's nowhere near universality. **It's time to reject [emojipocalyspe](https://www.openbible.info/blog/2015/05/heralds-of-the-emojipocalypse/) and return to emoticons and kaomoji.** However, they aren't perfect. Emoticons, like emojis, are susceptible to semantic shift, while kaomojis are disruptive and only for social signaling. **Still, they're the only way to reject emojipocalyspe, else how can we express emotional cue via text?** Not everyone uses stickers and GIFs, and they aren't supported on every platform.
