@@ -13,7 +13,7 @@ On mobile, there isn't a perfect kaomoji keyboard app, as far as I'm aware. Gboa
 - don't have a feature to long press to choose variants
 - don't have a button to change all eyes from x to y or remove parentheses
 - don't have a feature add/remove/edit default and user-created kaomojis
-- don't have search feature
+- don't have search feature (fair enough because you have to create a database with names and categories)
 - have a limited amount of kaomojis, most of which are kinda basic
 
 Because of this fact, I've been wanting to create a kaomoji app, or at the very least create a list of cool kaomojis.
