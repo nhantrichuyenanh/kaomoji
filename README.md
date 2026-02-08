@@ -31,9 +31,9 @@ Because of this fact, I've been wanting to create a kaomoji app, or at the very 
 | ―⊂ZZZ⊃ | [̲̅$̲̅(̲̅ ͡° ͜ʖ ͡°̲̅)̲̅$̲̅] | (　´_ゝ｀) | ((d[-_-]b)) |
 |----|----|----|----|
 | `\̅_̅/̷̚ʾ` | `ヽ(^o^)ρ┳┻┳°σ(^o^)ノ` | `_へ__(‾◡◝ )>` | `♪o<( ´∀｀)っ┌iii┐` |
-| `c(_)` | `ヽ(；^ ^)ノﾞ ．．．...___〇` | `(＿ ＿*) Z z z` | `( っ'-')╮ =͟͟͞͞🏀` |
+| `c(_)` | `ヽ(；^ ^)ノﾞ ．．．...___〇` | `(＿ ＿*) Z z z` | `(۶ૈ ᵒ̌ Дᵒ̌)۶ૈ=͟͟͞͞ ⌨` |
 | `✴==≡눈` | `Ю　○三　＼(￣^￣＼)` | `(╯°□°)╯︵ ʞooqǝɔɐℲ` | `ꍞ(¦ 3[▓▓]` |
-| `☆彡` | `(۶ૈ ᵒ̌ Дᵒ̌)۶ૈ=͟͟͞͞ ⌨` | `( °̥̥̥̥̥̥̥̥◡͐°̥̥̥̥̥̥̥̥)` | `-●●●-ｃ(ω｀ｃ )` |
+| `☆彡` | `( っ'-')╮ =͟͟͞͞🏀` | `( °̥̥̥̥̥̥̥̥◡͐°̥̥̥̥̥̥̥̥)` | `-●●●-ｃ(ω｀ｃ )` |
 
 | [![](websitepreview/AngelEmojiMaker.png)](https://emoji-maker.com/kaomoji_copy) | [![](websitepreview/Cuteinternet.png)](https://cuteinternet.com/kaomoji) |
 | --- | --- |
@@ -43,4 +43,4 @@ Because of this fact, I've been wanting to create a kaomoji app, or at the very 
 | [![](websitepreview/looks.wtf.png)](https://looks.wtf/) | [![](websitepreview/PSDDude.png)](https://www.psd-dude.com/kaomojis/) |
 | [![](websitepreview/Simeji.png)](https://simeji.me/kaomoji) | [![](websitepreview/SNSKeyboard.png)](https://snskeyboard.com/emoticon/) |
 | [![](websitepreview/Wikipedia.png)](https://wikipedia.org/wiki/List_of_emoticons#Eastern) | [![](websitepreview/顔文字屋さん.png)](https://kaomojiya.com/) |
-| [![](websitepreview/Wiktionary.png)](https://de.wiktionary.org/wiki/Verzeichnis:International/Smileys) |  |
+| [![](websitepreview/Wiktionary.png)](https://de.wiktionary.org/wiki/Verzeichnis:International/Smileys) | [![](websitepreview/EmojiCombos.png)](https://emojicombos.com/kaomoji) |
