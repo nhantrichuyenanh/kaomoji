@@ -1,6 +1,7 @@
 Emojis are deeply flawed. They:
 - lack a lot of emotional cues ("Ok 🙂" Are you being sarcastic? Passive-aggressive? Annoyed?),
-- change meanings depending on who you're texting to (Gen Z uses 😭 for everything)
+- change meanings depending on who you're texting to (Gen Z uses 😭 for everything),
+- are used disproportionately (social media uses the same emojis like 😭 and 💀 year after year while most emojis go underused),
 - look different on each platform,
 - are Japanese-American centric (🚅 why are there so many train emojis? most mailboxes around the world don't look like 📫) and lack representation for other countries' cultural symbols and references (where are the emojis for Vietnamese _bánh mì_, Indian _sari_, or Mayan _Chichén Itzá_?),
 - are a product of Silicon Valley (American tech companies corporatize emojis by making them have big eyes, big mouth, and yellow skin).
@@ -16,7 +17,7 @@ On mobile, there isn't a perfect kaomoji keyboard app, as far as I'm aware. Gboa
 - don't have search feature (fair enough because you have to create a database with names and categories)
 - have a limited amount of kaomojis, most of which are kinda basic
 
-Because of this fact, I've been wanting to create a kaomoji app, or at the very least create a list of cool kaomojis.
+Because of this fact, I've been wanting to create a kaomoji mobile app, or at the very least create a list of cool kaomojis.
 
 - What would a kaomoji app would look like:
 
