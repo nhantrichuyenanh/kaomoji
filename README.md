@@ -19,6 +19,33 @@ On mobile, there isn't a perfect kaomoji keyboard app, as far as I'm aware. Gboa
 
 Because of this fact, I've been wanting to create a kaomoji mobile app, or at the very least create a list of cool kaomojis.
 
+Like any other projects, I collect material and references. I use an [iPhone](https://github.com/nhantrichuyenanh/ios-ofb), so I downloaded all kaomoji keyboard apps in the App Store and narrowed down to [Text Faces for Texting](https://apps.apple.com/app/text-faces-for-texting/id656987566) and [Japanese Emoticons for Texting](https://apps.apple.com/app/japanese-emoticons-for-texting/id807320735), both of which are no different to each other. Here's a list of the kaomoji from either of the apps that I like:
+
+| （ｏ＿Ｏ） | （O_O） | (/ _ ; ) | (^^;) |
+|----|----|----|----|
+| ‧˚₊*̥(* ⁰̷̴͈꒨⁰̷̴͈)‧˚₊*̥ | (๑o̴̶̷̥᷅﹏o̴̶̷̥᷅๑)꒳ᵒ꒳ᵎᵎᵎ | ( p_q) | ヽ(；^ ^)ノﾞ ．．．...___〇 |
+| (　´_ゝ｀) | ε=ε=┏( >_<)┛　(ノ_ _)ノ | ＼_(･ω･｀) | (((( ＿ ＿)☆ ≡〇　　┏┓ |
+| ＼_(´ι _` 　) | ＼＿ﾍ(◕‿◕✰) | (( _ _ ))..zzzZZ | (>ω^) |
+| ヾ(*･ω･*)o | ┬──┬ ¯\_(ツ) | (＾＾)ｂ | Σ(-᷅_-᷄๑) |
+| (╯°□°）╯︵ ( . 0 .) | (o_O) ! | ＾ω＾ | (*･ω･)ﾉ”┌iii┐♡ |
+| (¦ꒉ[▓▓] | (¦3[___] | ヾ(^_^) byebye!! | ¯\_(ツ)_/¯ |
+| ((;ﾟДﾟ)) | (／_^)／　　●　＼(^_＼) | (ﾟρﾟ*) | (*´﹃`) |
+| ヽ(^o^)ρ┳┻┳°σ(^o^)ノ | (⊙.☉)7 | (◔ૂ◔) | Ю　○三　＼(￣^￣＼) |
+| ಠ‿↼ | ( ͡~ ͜ʖ ͡°) | (╯°□°)╯︵ sɯɐxǝ | (⌒▽⌒)♡ |
+| (º﹃º ) | (╯°□°)╯︵ ʞɹoʍ | ( ͡°ω ͡°) | ͡° ͜ʖ ͡° |
+| (╯°□°)╯︵ ƃuıʎpnʇs | ヽ( ͝° ͜ʖ͡°)ﾉ | _(┐「ε:)_ | {zzz}°°°( -_-)>c[_] |
+| (ʃƪ˘ﻬ˘) | (*^ω^) | ʕ•̫͡•ॽु✚⃞ྉ*✲ﾟ*｡⋆ | ヽ(ー_ー )ノ |
+| ヽ(´ー｀)┌ | (¬‿¬) | ( ͡° ͜ʖ ͡°) | （☆ω☆*） |
+| |_・) | ( ?´_ゝ｀) | (;-_-)ノ | (´,,•ω•,,｀) |
+| ¯\(°_o)/¯ | t( -_- t ) | ((“Ｑ(´▽｀｡) | _へ__(‾◡◝ )> |
+| _(:3」∠)_ | (^q^) | （◞‸◟） | ヾ(^ ^ゞ |
+| (ﾉ_-｡) | (＾＾；) | ꒰ີᵒ̴̶̷͈́༝ॢᵒ̴̶̷͈̀ ૢ꒱ ິ | (｡･･｡) |
+| (*_ _)人 | ＜(。_。)＞ | _/＼●_ | orz |
+| ヾ(≧∇≦)ゞ | (#^^#)ゞ | (・・？) | (☉_☉) |
+| (゜-゜) | ( ⚆ _ ⚆ ) | ＿|￣|○ | (*^^*) |
+| (〃ω〃) | (ﾉ_ _)ﾉ | (　｀_ゝ´) | (✧≖‿ゝ≖) |
+| (^ｗ^) | <(｀^´)> | (눈_눈) | (> ^_^ )> |
+
 - What would a kaomoji app would look like:
 
 | Demo 1 | Demo 2 |
