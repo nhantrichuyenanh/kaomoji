@@ -47,7 +47,7 @@ Like any other projects, I first collected material and references. I use an [iP
 | `(^ｗ^)` | `<(｀^´)>` | `(눈_눈)` | `(> ^_^ )>` |
 | `（ｏ＿Ｏ）` | `（O_O）` | `(/ _ ; )` | `(^^;)` |
 
-- What would a kaomoji app would look like:
+What would a kaomoji app would look like in my mind:
 
 | Demo 1 | Demo 2 |
 | :---: | :---: |
@@ -55,7 +55,7 @@ Like any other projects, I first collected material and references. I use an [iP
 
 (sorry for the terrible demo `（＞人＜；）` hopefully I get my idea across)
 
-- List of cool kaomojis: (sources below as images, click on them to be redirected)
+List of cool kaomojis: (sources below as images, click on them to be redirected)
 
 | ―⊂ZZZ⊃ | [̲̅$̲̅(̲̅ ͡° ͜ʖ ͡°̲̅)̲̅$̲̅] | (　´_ゝ｀) | ((d[-_-]b)) |
 |----|----|----|----|
