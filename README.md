@@ -51,7 +51,7 @@ After using the app, I have what a kaomoji app would look like in mind:
 
 | Demo 1 | Demo 2 |
 | :---: | :---: |
-| ![Demo 1](demo/demo1.jpg) | ![Demo 2](demo/demo2.jpg) |
+| ![Demo 1](demo/demo1.png) | ![Demo 2](demo/demo2.jpg) |
 
 (Keyboard being used in the demo is from Grammarly.)
 
