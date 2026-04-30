@@ -53,6 +53,8 @@ After using the app, I have what a kaomoji app would look like in mind:
 | :---: | :---: |
 | ![Demo 1](demo/demo1.jpg) | ![Demo 2](demo/demo2.jpg) |
 
+Keyboard being used in the demo is from Grammarly.
+
 Now I need to create a list of kaomojis for the app. While collecting kaomojis for the list, I found some cool ones. Below these are the sources rendered as images that I collected from, click on them to be redirected.
 
 | ―⊂ZZZ⊃ | [̲̅$̲̅(̲̅ ͡° ͜ʖ ͡°̲̅)̲̅$̲̅] | (　´_ゝ｀) | ((d[-_-]b)) |
