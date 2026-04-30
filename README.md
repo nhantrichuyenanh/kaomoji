@@ -47,13 +47,11 @@ Like any other projects, I first collected material and references. I use an [iP
 | `(^ｗ^)` | `<(｀^´)>` | `(눈_눈)` | `(> ^_^ )>` |
 | `（ｏ＿Ｏ）` | `（O_O）` | `(/ _ ; )` | `(^^;)` |
 
-After using the app, I have what a kaomoji app would look like:
+After using the app, I have what a kaomoji app would look like in mind:
 
 | Demo 1 | Demo 2 |
 | :---: | :---: |
 | ![Demo 1](demo/demo1.jpg) | ![Demo 2](demo/demo2.jpg) |
-
-(sorry for the terrible demo `（＞人＜；）` hopefully I get my idea across)
 
 Now I need to create a list of kaomojis for the app. While collecting kaomojis for the list, I found some cool ones. Below these are the sources rendered as images that I collected from, click on them to be redirected.
 
