@@ -47,7 +47,7 @@ Like any other projects, I first collected material and references. I use an [iP
 | `(^ｗ^)` | `<(｀^´)>` | `(눈_눈)` | `(> ^_^ )>` |
 | `（ｏ＿Ｏ）` | `（O_O）` | `(/ _ ; )` | `(^^;)` |
 
-(*) Temporarily replaced `|` with `]` so that the kaomoji can be displayed in GHFM Table.
+(*) Temporarily replaced `|` with `]` so that the kaomoji can be displayed in GFM Table.
 
 After using the app, I have what a kaomoji app would look like in mind:
 
