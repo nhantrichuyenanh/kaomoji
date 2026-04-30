@@ -19,7 +19,7 @@ On mobile, there isn't a perfect kaomoji keyboard app, as far as I'm aware. Gboa
 
 Because of this fact, I've been wanting to create a kaomoji mobile app, or at the very least create a list of cool kaomojis.
 
-Like any other projects, I first collected material and references. I use an [iPhone](https://github.com/nhantrichuyenanh/ios-ofb), so I downloaded all kaomoji keyboard apps in the App Store and narrowed down to [Text Faces for Texting](https://apps.apple.com/app/text-faces-for-texting/id656987566) and [Japanese Emoticons for Texting](https://apps.apple.com/app/japanese-emoticons-for-texting/id807320735), both of which are no different to each other. Here's a list of the kaomoji from either of the apps that I personally like:
+Like any other projects, I first collected material and references. I use an [iPhone](https://github.com/nhantrichuyenanh/ios-ofb), so I downloaded all kaomoji keyboard apps in the App Store and narrowed down to [Text Faces for Texting](https://apps.apple.com/app/text-faces-for-texting/id656987566) and [Japanese Emoticons for Texting](https://apps.apple.com/app/japanese-emoticons-for-texting/id807320735), both of which are no different to each other. While using the app, I found some kaomoji that I personally like:
 
 | （ｏ＿Ｏ） | （O_O） | (/ _ ; ) | (^^;) |
 |----|----|----|----|
@@ -36,18 +36,18 @@ Like any other projects, I first collected material and references. I use an [iP
 | `(╯°□°)╯︵ ƃuıʎpnʇs` | `ヽ( ͝° ͜ʖ͡°)ﾉ` | `_(┐「ε:)_` | `{zzz}°°°( -_-)>c[_]` |
 | `(ʃƪ˘ﻬ˘)` | `(*^ω^)` | `ʕ•̫͡•ॽु✚⃞ྉ*✲ﾟ*｡⋆` | `ヽ(ー_ー )ノ` |
 | `ヽ(´ー｀)┌` | `(¬‿¬)` | `( ͡° ͜ʖ ͡°)` | `（☆ω☆*）` |
-| `]_・)` (temporarily displayed as ]) | `( ?´_ゝ｀)` | `(;-_-)ノ` | `(´,,•ω•,,｀)` |
+| `]_・)` (temporarily displayed as `]`) | `( ?´_ゝ｀)` | `(;-_-)ノ` | `(´,,•ω•,,｀)` |
 | `¯\(°_o)/¯` | `t( -_- t )` | `((“Ｑ(´▽｀｡)` | `_へ__(‾◡◝ )>` |
 | `_(:3」∠)_` | `(^q^)` | `（◞‸◟）` | `ヾ(^ ^ゞ` |
 | `(ﾉ_-｡)` | `(＾＾；)` | `꒰ີᵒ̴̶̷͈́༝ॢᵒ̴̶̷͈̀ ૢ꒱ ິ` | `(｡･･｡)` |
 | `(*_ _)人` | `＜(。_。)＞` | `_/＼●_` | `orz` |
 | `ヾ(≧∇≦)ゞ` | `(#^^#)ゞ` | `(・・？)` | `(☉_☉)` |
-| `(゜-゜)` | `( ⚆ _ ⚆ )` | `＿]￣]○` (temporarily displayed as ]) | `(*]]*)` (temporarily displayed as ]) |
+| `(゜-゜)` | `( ⚆ _ ⚆ )` | `＿]￣]○` (temporarily displayed as `]`) | `(*]]*)` (temporarily displayed as `]`) |
 | `(〃ω〃)` | `(ﾉ_ _)ﾉ` | `(　｀_ゝ´)` | `(✧≖‿ゝ≖)` |
 | `(^ｗ^)` | `<(｀^´)>` | `(눈_눈)` | `(> ^_^ )>` |
 | `（ｏ＿Ｏ）` | `（O_O）` | `(/ _ ; )` | `(^^;)` |
 
-What would a kaomoji app would look like in my mind:
+After using the app, I have what a kaomoji app would look like:
 
 | Demo 1 | Demo 2 |
 | :---: | :---: |
@@ -55,7 +55,7 @@ What would a kaomoji app would look like in my mind:
 
 (sorry for the terrible demo `（＞人＜；）` hopefully I get my idea across)
 
-List of cool kaomojis: (sources below as images, click on them to be redirected)
+Now I need to create a list of kaomojis for the app. While collecting kaomojis for the list, I found some cool ones. Below these are the sources rendered as images that I collected from, click on them to be redirected.
 
 | ―⊂ZZZ⊃ | [̲̅$̲̅(̲̅ ͡° ͜ʖ ͡°̲̅)̲̅$̲̅] | (　´_ゝ｀) | ((d[-_-]b)) |
 |----|----|----|----|
