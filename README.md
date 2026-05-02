@@ -75,3 +75,5 @@ Now I need to create a list of kaomojis for the app. While collecting kaomojis f
 | [![](websitepreview/Simeji.png)](https://simeji.me/kaomoji) | [![](websitepreview/SNSKeyboard.png)](https://snskeyboard.com/emoticon/) |
 | [![](websitepreview/Wikipedia.png)](https://wikipedia.org/wiki/List_of_emoticons#Eastern) | [![](websitepreview/顔文字屋さん.png)](https://kaomojiya.com/) |
 | [![](websitepreview/Wiktionary.png)](https://de.wiktionary.org/wiki/Verzeichnis:International/Smileys) | [![](websitepreview/EmojiCombos.png)](https://emojicombos.com/kaomoji) |
+
+Unfortunately, I don't have a Mac to start coding the app and a job to pay the annual fee of $100 for the Apple Developer Program. In the future when I do have a Mac and a job, I'll revisit this repo.
