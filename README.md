@@ -86,10 +86,10 @@ I also read the literature. Here are some excellent snippets, if available:
 > Humans have always been interested in exploring emotion through some new kind of typography. [...] Traditionally, writing wasn't really supposed to reflect our usual give and take that we have in a conversation. [...] But people always put down a new form of communication as soon as it arrives. When Plato talks about writing, he talks about it as a supplement to speech, and I think the way some people now talk about emoticons is that they're just a supplement, they're just an add onto the more important way of communicating. But these new forms of communication are much more than mere supplements. They're going to give us new ways of thinking, and that through a combination of words and images, it might be possible to say more.
 - [The History of Emoticons](https://www.youtube.com/watch?v=tf-YVA_Ta68)
 
-| 1 | 2 | 3 | 4 |
+| ![](bjiru/128.png) | ![](bjiru/129.png) | ![](bjiru/193.png) | ![](bjiru/195.png) |
 | --- | --- | --- | --- |
-| 5 | 6 | 7 | 8 |
-| 9 |10 |11 |12 |
-|13 |14 |15 |16 |
+| ![](bjiru/287.png) | ![](bjiru/288.png) | ![](bjiru/289.png) | ![](bjiru/360.png) |
+| ![](bjiru/390.png) | ![](bjiru/393.png) | ![](bjiru/394.png) | ![](bjiru/395.png) |
+| ![](bjiru/397.png) | ![](bjiru/400.png) | ![](bjiru/409.png) | ![](bjiru/435.png) |
 
 Unfortunately, I don't have a Mac to start coding the app and a job to pay the annual fee of $100 for the Apple Developer Program. In the future when I do have a Mac and a job, I'll revisit this repo.
