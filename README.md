@@ -84,6 +84,21 @@ I also read the literature. Here are some excellent snippets, if available:
 > 日本人は集団内の調和を大事にするので、本当の気持ちが顔に表れないよう気をつけます。しかし解剖学的にみると、口元の筋肉は意志でコントロールできますが、目元の筋肉はそれができません。「笑顔だけど目は笑っていない」などといいますよね。だから、相手の本当の気持ちが知りたいとき、日本人は目を見て判断するのです。一方、本心を正直に顔に表すことが奨励される社会に住むアメリカ人は、相手の口元で感情を判断します。口角を上げて笑っているかどうか、目元よりも大きく動く口に着目していると考えられます。この違いは、電子メールの「顔文字」にも表れています。日本の顔文字は主に目の部分で笑い、涙、驚きなどを表すのに対し、アメリカの顔文字は主に口で感情を表しています。
 - [Are Emoticons the Future of Language? | Off Book | PBS Digital Studios (PBSoffbook)](https://www.youtube.com/watch?v=8tWZ2JmFpx0):
 > Humans have always been interested in exploring emotion through some new kind of typography. [...] Traditionally, writing wasn't really supposed to reflect our usual give and take that we have in a conversation. [...] But people always put down a new form of communication as soon as it arrives. When Plato talks about writing, he talks about it as a supplement to speech, and I think the way some people now talk about emoticons is that they're just a supplement, they're just an add onto the more important way of communicating. But these new forms of communication are much more than mere supplements. They're going to give us new ways of thinking, and that through a combination of words and images, it might be possible to say more.
+
+| ![](PBSoffbook/abe_lincoln.png) | ![](PBSoffbook/amazed.png) | ![](PBSoffbook/annoyed_or_rhetorical.png) | ![](PBSoffbook/apologize.png) |
+| --- | --- | --- | --- |
+| ![](PBSoffbook/bad_hair_day.png) | ![](PBSoffbook/being_carefree.png) | ![](PBSoffbook/blowing_candles.png) | ![](PBSoffbook/blushing.png) |
+| ![](PBSoffbook/come_on!.png) | ![](PBSoffbook/confused.png) | ![](PBSoffbook/coyness.png) | ![](PBSoffbook/crazy.png) |
+| ![](PBSoffbook/crying.png) | ![](PBSoffbook/dancing.png) | ![](PBSoffbook/deflated.png) | ![](PBSoffbook/depressed.png) |
+| ![](PBSoffbook/disappointed_bitter.png) | ![](PBSoffbook/discombobulated.png) | ![](PBSoffbook/don_t_know_the_answer.png) | ![](PBSoffbook/embarassed.png) |
+| ![](PBSoffbook/evil.png) | ![](PBSoffbook/excited.png) | ![](PBSoffbook/flash_of_intuition.png) | ![](PBSoffbook/get_back_foul_demon!.png) |
+| ![](PBSoffbook/given_up.png) | ![](PBSoffbook/high_five.png) | ![](PBSoffbook/indifferent.png) | ![](PBSoffbook/infatuation.png) |
+| ![](PBSoffbook/irate!.png) | ![](PBSoffbook/jog_someone_s_cheek.png) | ![](PBSoffbook/kiss.png) | ![](PBSoffbook/man_regrets_sideburns.png) |
+| ![](PBSoffbook/peace_of_mind.png) | ![](PBSoffbook/praying.png) | ![](PBSoffbook/shocked.png) | ![](PBSoffbook/shouting.png) |
+| ![](PBSoffbook/shy.png) | ![](PBSoffbook/strength.png) | ![](PBSoffbook/telling_a_secret.png) | ![](PBSoffbook/thinking.png) |
+| ![](PBSoffbook/upset_not_amused.png) | ![](PBSoffbook/upset.png) | ![](PBSoffbook/whatevs.png) | ![](PBSoffbook/wtf.png) |
+
+
 - [The History of Emoticons](https://www.youtube.com/watch?v=tf-YVA_Ta68)
 
 | ![](bjiru/128.png) | ![](bjiru/129.png) | ![](bjiru/193.png) | ![](bjiru/195.png) |
