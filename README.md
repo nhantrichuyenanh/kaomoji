@@ -55,14 +55,7 @@ After using the app, I have what a kaomoji app would look like in mind:
 
 (Keyboard being used in the demo is from Grammarly.)
 
-Now I need to create a list of kaomojis for the app. While collecting kaomojis for the list, I found some cool ones. Below these are the sources rendered as images that I collected from, click on them to be redirected.
-
-| ―⊂ZZZ⊃ | [̲̅$̲̅(̲̅ ͡° ͜ʖ ͡°̲̅)̲̅$̲̅] | (　´_ゝ｀) | ((d[-_-]b)) |
-|----|----|----|----|
-| `\̅_̅/̷̚ʾ` | `ヽ(^o^)ρ┳┻┳°σ(^o^)ノ` | `_へ__(‾◡◝ )>` | `♪o<( ´∀｀)っ┌iii┐` |
-| `c(_)` | `ヽ(；^ ^)ノﾞ ．．．...___〇` | `(＿ ＿*) Z z z` | `(۶ૈ ᵒ̌ Дᵒ̌)۶ૈ=͟͟͞͞ ⌨` |
-| `✴==≡눈` | `Ю　○三　＼(￣^￣＼)` | `ꍞ(¦ 3[▓▓]` | `(╯°□°)╯︵ ʞooqǝɔɐℲ` |
-| `☆彡` | `( っ'-')╮ =͟͟͞͞🏀` | `( °̥̥̥̥̥̥̥̥◡͐°̥̥̥̥̥̥̥̥)` | `-●●●-ｃ(ω｀ｃ )` |
+Now I need to create a list of kaomojis for the app. Below these are the sources rendered as images that I used for the list, click on them to be redirected.
 
 | [![](websitepreview/AngelEmojiMaker.png)](https://emoji-maker.com/kaomoji_copy) | [![](websitepreview/Cuteinternet.png)](https://cuteinternet.com/kaomoji) |
 | --- | --- |
