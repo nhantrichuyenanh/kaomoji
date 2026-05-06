@@ -65,7 +65,7 @@ Now I need to create a list of kaomojis for the app. Below these are the sources
 | [![](websitepreview/looks.wtf.png)](https://looks.wtf/) | [![](websitepreview/PSDDude.png)](https://www.psd-dude.com/kaomojis/) |
 | [![](websitepreview/Simeji.png)](https://simeji.me/kaomoji) | [![](websitepreview/SNSKeyboard.png)](https://snskeyboard.com/emoticon/) |
 | [![](websitepreview/Wikipedia.png)](https://wikipedia.org/wiki/List_of_emoticons#Eastern) | [![](websitepreview/顔文字屋さん.png)](https://kaomojiya.com/) |
-| [![](websitepreview/Wiktionary.png)](https://de.wiktionary.org/wiki/Verzeichnis:International/Smileys) | [![](websitepreview/EmojiCombos.png)](https://emojicombos.com/kaomoji) |
+| [![](websitepreview/Wiktionary.png)](https://de.wiktionary.org/wiki/Verzeichnis:International/Smileys) | [![](websitepreview/KaomojiSymbols.png)](https://kaomojisymbols.com/) |
 
 I also read the literature. Here are some excellent snippets, if available:
 - [I wish emojis had never replaced emoticons](https://www.mic.com/impact/emojis-emoticons-are-similar-but-one-is-far-far-better-20514120)
